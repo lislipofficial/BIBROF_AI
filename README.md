@@ -3,12 +3,20 @@ BIBROF AI - Bulk Image Background Remover Offline
 **AI background remover software for Windows that runs 100% locally on your device.**
 
 BIBROF AI is an offline photo BG remover for PC that quickly removes backgrounds from a single image or an entire folder of up to 100 photos per batch. Your files never leave your computer, so you get fast, accurate background removal and transparent PNGs without cloud uploads, credit packs or per-image limits.
+
+**Screenshots:**
+Screenshot 1:
 <img width="1280" height="720" alt="Screenshot-1" src="https://github.com/user-attachments/assets/78302cd9-1f63-4229-ae22-4560ba070e07" />
+Screenshot 2:
 <img width="1280" height="720" alt="Screenshot-2" src="https://github.com/user-attachments/assets/e5a9a665-3494-4097-9c15-3d8d50223e97" />
+Screenshot 3:
 <img width="1280" height="720" alt="Screenshot-3" src="https://github.com/user-attachments/assets/579ed95a-ede4-4bd1-b20a-a3f40c7e94dd" />
+Screenshot 4:
 <img width="1280" height="720" alt="Screenshot-4" src="https://github.com/user-attachments/assets/5e220be7-1ba3-44a7-9da3-d54f961f6b05" />
+Screenshot 5:
 <img width="1280" height="720" alt="Screenshot-5" src="https://github.com/user-attachments/assets/4b11f0fe-9ba9-4baf-9c78-12170a77e1c3" />
-<img width="1280" height="720" alt="6" src="https://github.com/user-attachments/assets/5ba8daa4-ba1f-4423-86c9-7663c160dd38" />
+Screenshot 6:
+<img width="1280" height="720" alt="Screenshot-6" src="https://github.com/user-attachments/assets/5ba8daa4-ba1f-4423-86c9-7663c160dd38" />
 
 **Why We Built BIBROF AI?**
 1. Privacy First - Processing happens locally on your device, None of the images are uploaded to server.
