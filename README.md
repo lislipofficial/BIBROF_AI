@@ -43,6 +43,7 @@ Follow these quick steps to Bypass the SmartScreen message:
 2. When the SmartScreen window appears, click "More info".
 3. Click "Run anyway".
 4. The installer will start normally.
+![SmartScreen](https://github.com/user-attachments/assets/6ae8ed52-d8ec-4572-90b3-f7679d9f199d)
 
 This process simply tells Windows that you trust the app.  
 
