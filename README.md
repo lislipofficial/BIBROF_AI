@@ -1,4 +1,4 @@
-BIBROF AI - Bulk Image Background Remover Offline
+<img width="1920" height="1080" alt="6  Preview" src="https://github.com/user-attachments/assets/ac1c0b92-5f0e-42f1-aad6-8e189b72864b" />BIBROF AI - Bulk Image Background Remover Offline
 --------------------------------------
 **AI background remover software for Windows that runs 100% locally on your device.**
 
@@ -6,17 +6,17 @@ BIBROF AI is an offline photo BG remover for PC that quickly removes backgrounds
 
 **Screenshots:**
 Screenshot 1:
-<img width="1280" height="720" alt="Screenshot-1" src="https://github.com/user-attachments/assets/78302cd9-1f63-4229-ae22-4560ba070e07" />
+<img width="1920" height="1080" alt="2  Model" src="https://github.com/user-attachments/assets/1457fc11-d43c-4cbd-a259-49d154733620" />
 Screenshot 2:
-<img width="1280" height="720" alt="Screenshot-2" src="https://github.com/user-attachments/assets/e5a9a665-3494-4097-9c15-3d8d50223e97" />
+<img width="1920" height="1080" alt="3  Type" src="https://github.com/user-attachments/assets/9892cc1f-7cbf-4cb8-a9bb-2c40cdea6a74" />
 Screenshot 3:
-<img width="1280" height="720" alt="Screenshot-3" src="https://github.com/user-attachments/assets/579ed95a-ede4-4bd1-b20a-a3f40c7e94dd" />
+<img width="1920" height="1080" alt="4  Processing" src="https://github.com/user-attachments/assets/d64a4333-7d23-4528-9bea-64d66a062edc" />
 Screenshot 4:
-<img width="1280" height="720" alt="Screenshot-4" src="https://github.com/user-attachments/assets/5e220be7-1ba3-44a7-9da3-d54f961f6b05" />
+<img width="1920" height="1080" alt="5  Processed" src="https://github.com/user-attachments/assets/d263fbb0-618c-40e5-8aa4-77543ce7ff0f" />
 Screenshot 5:
-<img width="1280" height="720" alt="Screenshot-5" src="https://github.com/user-attachments/assets/4b11f0fe-9ba9-4baf-9c78-12170a77e1c3" />
+<img width="1920" height="1080" alt="6  Preview" src="https://github.com/user-attachments/assets/e57bf9e3-82de-4302-bb6c-479bd6e09521" />
 Screenshot 6:
-<img width="1280" height="720" alt="Screenshot-6" src="https://github.com/user-attachments/assets/5ba8daa4-ba1f-4423-86c9-7663c160dd38" />
+<img width="1920" height="1080" alt="7  Lens" src="https://github.com/user-attachments/assets/df848d5a-5969-4197-aa1e-66784edf281f" />
 
 **Why We Built BIBROF AI?**
 1. Privacy First - Processing happens locally on your device, None of the images are uploaded to server.
@@ -39,7 +39,7 @@ Why You See This:
 Follow these quick steps to Bypass the SmartScreen message:
 --------------------------------------
 
-1. Run the BIBROF_AI_25.11.03_Setup.exe file.
+1. Run the BIBROF_AI_Setup.exe file.
 2. When the SmartScreen window appears, click "More info".
 3. Click "Run anyway".
 4. The installer will start normally.
