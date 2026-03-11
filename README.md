@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="6  Preview" src="https://github.com/user-attachments/assets/ac1c0b92-5f0e-42f1-aad6-8e189b72864b" />BIBROF AI - Bulk Image Background Remover Offline
+BIBROF AI - Bulk Image Background Remover Offline
 --------------------------------------
 **AI background remover software for Windows that runs 100% locally on your device.**
 
